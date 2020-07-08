@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("git ikinci commit")
+        print("git üçüncü commit")
+
     }
 
 
